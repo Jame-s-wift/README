@@ -3,7 +3,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-jame__s.ss-blue)](http://instagram.com/jame_s.ss/)
 
-Im a Small Student developer from Singapore 🇸🇬 and I like to code. I like to code however im still learning, and if you have any project suggestions, go to [Suggest-A-Project](https://github.com/Jame-s-wift/Suggest-A-Project): Suggest projects for me to make! Im excited to see what cool ideas y'alls have for me to make 😃!
+Im a Small Student developer from Singapore 🇸🇬 and I like to code. I like to code however im still learning, and if you have any project suggestions, go to [Suggest-A-Project](https://github.com/Jame-s-wift/Suggest-A-Project)! Im excited to see what cool ideas y'alls have for me to make 😃!
 
 ### My projects
 - [BMI Calc](https://github.com/Jame-s-wift/BMI-Calc): A BMI Calculator and healthy lifestyle promotion app (coming from me seems pretty contradictory)[In Development]
