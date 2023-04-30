@@ -3,7 +3,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-jame__s.ss-blue)](http://instagram.com/jame_s.ss/)
 
-Im a Small Student developer from Singapore 🇸🇬 and I aim to make more projects
+Im a Small Student developer from Singapore 🇸🇬 and I like to code. I like to code however im still learning, and if you have any project suggestions, go to [Suggest-A-Project](https://github.com/Jame-s-wift/Suggest-A-Project): Suggest projects for me to make! Im excited to see what cool ideas y'alls have for me to make 😃!
 
 ### My projects
 - [BMI Calc](https://github.com/Jame-s-wift/BMI-Calc): A BMI Calculator and healthy lifestyle promotion app (coming from me seems pretty contradictory)[In Development]
@@ -23,3 +23,5 @@ Im a Small Student developer from Singapore 🇸🇬 and I aim to make more proj
 #### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
+
+Github is very cool
